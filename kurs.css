@@ -1,0 +1,30 @@
+
+    
+        *{box-sizing:border-box}
+        body{width:100vw;
+            height:100vh;
+        }
+        .box{
+
+
+            width: 50%;
+            height:50%;
+            border:2px solid rgb(20, 12, 12);
+            margin-left:25%;
+            margin-top:15%;
+        }
+.iteam1{
+    position:fixed;
+    width:100px;
+    height:100px;
+    background-color: rgb(136, 33, 33);
+top: 0;
+right: 0;
+
+}
+.iteam2{width:100px;
+    height:100px;
+    background-color: darkblue;
+
+
+}
